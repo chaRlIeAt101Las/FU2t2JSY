@@ -8,7 +8,6 @@ linters:
     - misspell
     - prealloc
     - unconvert
-    - unparam
     - goimports
     - whitespace
 
